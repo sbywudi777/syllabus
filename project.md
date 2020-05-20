@@ -35,25 +35,27 @@ While the project is open ended, there are some parameters and guidelines to hel
 * **Exploratory Analysis:** Explore, assess and visualize the data. Aggregate, count, and summarize. Create graphs, tables, etc., and explain your findings in writing. Clean data as needed and build an analytical dataset. 
 * **Model:** Build any model you feel is appropriate and meaningful. You can use supervised and/or unsupervised approach. You must have evaluation metrics for supervised approaches and/or visualizations for unsupervised learning approaches. You are welcome to try different modeling techniques that you are comfortable with. 
 
-## Writeup
+## Writeup & Code Files
 
-You will submit a final writeup of your project. There is no minimum or maximum length requirement. I prefer simple and terse writing over long and verbose. Bullets are fine. As long as what you writeup covers what you want to convey, it's ok. The writeup needs to have the following sections:
+You will submit a final writeup of your project along with the code files. There is no minimum or maximum length requirement. I prefer simple and terse writing over long and verbose. Bullets are fine. As long as what you writeup covers what you want to convey, it's ok. The writeup needs to have the following sections:
 
 - Executive Summary
 - Introduction
-- Code files (you should list your code files here, and these must be in your submitted repository with appropriate comments.)
 - Methods section:
-	- How you sourced, ingestedn cleaned, prepared the dataset with samples of intermediate data
+	- How you sourced, ingested, cleansed, prepared the dataset with samples of intermediate data
 	- Tools you used for analyzing the dataset and the justification (tools, models, etc.)
 	- How did you model the dataset, what techniques did you use and why?
 	- Did you have a hypothesis that you were trying to prove?
 	- Did you just visualize the dataset, and if so, why?
+- Challenges (technical & non-technical) and how you overcame them
 - Results/Conclusions section:
 	- What did you find and learn?
 	- How did you validate your results? 
-- Future work: what would you do differently and what follow-up work would you do?
+- Future work: what would you do differently and what follow-up work would you do? Would you use othe tools?
 - Bibliography/References
 - Division of labor: which team member was responsible for which part of the project
+- Code files (you should list your code files here, and these must be in your submitted repository with appropriate comments.)
+
 	
 ## Project Proposal
 

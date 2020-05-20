@@ -19,8 +19,8 @@ Summer 2020
 
 - **Instructors:** Marck Vaisman (marck at gwu.edu)
 - **Classroom:** Online
-- **Time:** Wednesdays 6:10-8:40pm (actual time may be adjusted)
-- **TA's:** 
+- **Time:** Wednesdays 5:00-7:15pm Eastern Daylight Time
+- **TA's:** Hanqiu Yang (hanqiu_yang at email.gwu.edu)
 - **Course Description:** Learn to work with datasets that will not fit on a single machine because of storage, memory or processing constraints. This practical workshop-style course teaches students cloud computing and open-source tools to work with large datasets. Topics include: creating and setting up a cluster in the cloud, parallelization techniques, Hadoop, MapReduce, and Apache Spark. 
 
 ### Learning Objectives
@@ -37,12 +37,22 @@ Summer 2020
 - Understand programming concepts (flow control, input/output, variable assignment.) 
 - Experience with git and GitHub
 
-### Refresher Tutorials
+### Pre-Work Tutorials
 
-It is highly recommended that you go through the following tutorials if you need a refresher or are new to the topics of git, the command line, and SQL. If these topics are new to you, you must take these online courses before the course begins.
+This is a technical course and you will be using the **command line**, **git** and **SQL** among others. You will also **connecting to remote machines**. If any of the bold words are new to you, you should do the follwing tutorials:
+
+Spend a few hours before the course starts reading the lessons and watching the videos from [MIT's Missing Semester of CS Education](https://missing.csail.mit.edu/). These are the lessons that are key for this course:
+
+* Lesson 1 - Course overview and the shell [content](https://missing.csail.mit.edu/2020/course-shell/) [video](https://youtu.be/Z56Jmr9Z34Q)
+* Lesson 2 - Shell Tools and Scripting [content](https://missing.csail.mit.edu/2020/shell-tools/) [video](https://youtu.be/kgII-YWo3Zw)
+* Lesson 3 - Editors (Vim) [content](https://missing.csail.mit.edu/2020/editors/) [video](https://youtu.be/a6Q8Na575qc)
+* Lesson 4 - Data Wrangling [content](https://missing.csail.mit.edu/2020/data-wrangling/) [video](https://youtu.be/sz_dsktIjt4)
+* Lesson 5 - Command line environment [content](https://missing.csail.mit.edu/2020/command-line/) [video](https://youtu.be/e8BO_dYxk5c)
+* Lesson 6 - Version Control (git) [content](https://missing.csail.mit.edu/2020/version-control/) [video](https://youtu.be/2sjqTHE0zok)
+
+These are additional tutorials:
 
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
-- [codeacademy - Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 - [codeacademy - Learn SQL](https://www.codecademy.com/learn/learn-sql)
 - [Nico Riedmann's Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
 
@@ -54,9 +64,8 @@ There is no required textbook for the course. We have selected specific chapters
 
 Chapter readings are from the following books:
 
-* Benjamin Bengfort, Jenny Kim (2016). Data Analytics with Hadoop: An Introduction for Data Scientists. O’Reilly Media. ISBN: 9781491913703.
-* Bill Chambers, Matei Zaharia (2018). Spark: The Definitive Guide. O’Reilly Media. ISBN: 9781491912218.
-* JT Wolohan (2019). Mastering Large Datasets with Python. Manning.
+* **[MLD]** JT Wolohan (2019). Mastering Large Datasets with Python. Manning.
+* **[PSIA]** Jonathan Rioux (2020). PySpark in Action (MEAP). Manning
 
 ### Cloud Resources
 

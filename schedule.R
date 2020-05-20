@@ -24,14 +24,14 @@ l01 <- tibble(
   topics = "Course Overview. Big Data concepts. Cloud computing and evolution of cloud technologies",
   lab = "Setting Up",
   reading = "",
-  notes = ""
+  notes = "Do the prework"
 )
 
 l02 <- tibble(
   topics = "Scaling up on a single machine. Functional programming. Map and reduce functions. Parallelization.",
   lab = "Parallelization",
-  reading = "",
-  notes = ""
+  reading = "MLD: Ch. 1, 2, 5<br/><br/>Dean, Ghemawat: MapReduce Simplified Data Processing on Large Clusters",
+  notes = "Quiz 1<br/><br/>Project Proposal due 5/27<br/><br/>Assignment 1 due 5/29"
 )
 
 
@@ -39,28 +39,28 @@ l03 <- tibble(
   topics = "MapReduce. Hadoop and Hadoop Streaming. Distributed filesystems.",
   lab = "Running a Hadoop job",
   reading = "",
-  notes = ""
+  notes = "Quiz 2<br/><br/>Assignment 2 due 6/5"
 )
 
 l04 <- tibble(
   topics = "Spark 1: Intro to Spark and PySpark. RDDs. Spark DataFrames. SparkSQL",
   lab = "Intro to Spark, working with RDDs",
   reading = "",
-  notes = ""
+  notes = "Quiz 3<br/><br/>Assignment 3 due 6/12"
 )
 
 l05 <- tibble(
   topics = "Spark 2: Marchine Learning with Spark",
   lab = "Machine Learning with Spark",
   reading = "",
-  notes = ""
+  notes = "Quiz 4"
 )
 
 l06 <- tibble(
   topics = "Spark 3: Spark Streaming. Other big data tools. Course wrapup.",
   lab = "Spark Streaming",
   reading = "",
-  notes = ""
+  notes = "Quiz 5<br/><br/>Final Project due 6/30"
 )
 
 

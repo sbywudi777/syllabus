@@ -1,4 +1,4 @@
-**This syllabus is effective as of Sunday, May 19, 2020 at 09:50 PM**
+**This syllabus is effective as of Wednesday, May 20, 2020 at 12:07 PM**
 
 DNSC 6290 Working with Large Datasets the George Washington University
 Summer 2020
@@ -8,7 +8,7 @@ Summer 2020
   - **Instructors:** Marck Vaisman (marck at gwu.edu)
   - **Classroom:** Online
   - **Time:** Wednesdays 5:00-7:15pm Eastern Daylight Time
-  - **TA’s:** Hanqiu Yang (hanqiu_yang at email.gwu.edu)
+  - **TA’s:** Hanqiu Yang (hanqiu\_yang at email.gwu.edu)
   - **Course Description:** Learn to work with datasets that will not
     fit on a single machine because of storage, memory or processing
     constraints. This practical workshop-style course teaches students
@@ -38,16 +38,40 @@ Summer 2020
     variable assignment.)
   - Experience with git and GitHub
 
-### Refresher Tutorials
+### Pre-Work Tutorials
 
-It is highly recommended that you go through the following tutorials if
-you need a refresher or are new to the topics of git, the command line,
-and SQL. If these topics are new to you, you must take these online
-courses before the course begins.
+This is a technical course and you will be using the **command line**,
+**git** and **SQL** among others. You will also **connecting to remote
+machines**. If any of the bold words are new to you, you should do the
+follwing tutorials:
+
+Spend a few hours before the course starts reading the lessons and
+watching the videos from [MIT’s Missing Semester of CS
+Education](https://missing.csail.mit.edu/). These are the lessons that
+are key for this course:
+
+  - Lesson 1 - Course overview and the shell
+    [content](https://missing.csail.mit.edu/2020/course-shell/)
+    [video](https://youtu.be/Z56Jmr9Z34Q)
+  - Lesson 2 - Shell Tools and Scripting
+    [content](https://missing.csail.mit.edu/2020/shell-tools/)
+    [video](https://youtu.be/kgII-YWo3Zw)
+  - Lesson 3 - Editors (Vim)
+    [content](https://missing.csail.mit.edu/2020/editors/)
+    [video](https://youtu.be/a6Q8Na575qc)
+  - Lesson 4 - Data Wrangling
+    [content](https://missing.csail.mit.edu/2020/data-wrangling/)
+    [video](https://youtu.be/sz_dsktIjt4)
+  - Lesson 5 - Command line environment
+    [content](https://missing.csail.mit.edu/2020/command-line/)
+    [video](https://youtu.be/e8BO_dYxk5c)
+  - Lesson 6 - Version Control (git)
+    [content](https://missing.csail.mit.edu/2020/version-control/)
+    [video](https://youtu.be/2sjqTHE0zok)
+
+These are additional tutorials:
 
   - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
-  - [codeacademy - Learn the Command
-    Line](https://www.codecademy.com/learn/learn-the-command-line)
   - [codeacademy - Learn
     SQL](https://www.codecademy.com/learn/learn-sql)
   - [Nico Riedmann’s Learn git concepts, not
@@ -66,12 +90,10 @@ lectures.**
 
 Chapter readings are from the following books:
 
-  - Benjamin Bengfort, Jenny Kim (2016). Data Analytics with Hadoop: An
-    Introduction for Data Scientists. O’Reilly Media. ISBN:
-    9781491913703.
-  - Bill Chambers, Matei Zaharia (2018). Spark: The Definitive Guide.
-    O’Reilly Media. ISBN: 9781491912218.
-  - JT Wolohan (2019). Mastering Large Datasets with Python. Manning.
+  - **\[MLD\]** JT Wolohan (2019). Mastering Large Datasets with Python.
+    Manning.
+  - **\[PSIA\]** Jonathan Rioux (2020). PySpark in Action (MEAP).
+    Manning
 
 ### Cloud Resources
 
@@ -180,14 +202,14 @@ This calendar is subject to change. We will make make any changes known
 in
 advance.
 
-| Class | Date       | Topics                                                                                             | Lab                               | Readings | Notes |
-| ----: | :--------- | :------------------------------------------------------------------------------------------------- | :-------------------------------- | :------- | :---- |
-|     1 | Wed May-20 | Course Overview. Big Data concepts. Cloud computing and evolution of cloud technologies            | Setting Up                        |          |       |
-|     2 | Wed May-27 | Scaling up on a single machine. Functional programming. Map and reduce functions. Parallelization. | Parallelization                   |          |       |
-|     3 | Wed Jun-03 | MapReduce. Hadoop and Hadoop Streaming. Distributed filesystems.                                   | Running a Hadoop job              |          |       |
-|     4 | Wed Jun-10 | Spark 1: Intro to Spark and PySpark. RDDs. Spark DataFrames. SparkSQL                              | Intro to Spark, working with RDDs |          |       |
-|     5 | Wed Jun-17 | Spark 2: Marchine Learning with Spark                                                              | Machine Learning with Spark       |          |       |
-|     6 | Wed Jun-24 | Spark 3: Spark Streaming. Other big data tools. Course wrapup.                                     | Spark Streaming                   |          |       |
+| Class | Date       | Topics                                                                                             | Lab                               | Readings                                                                                         | Notes                                                                    |
+| ----: | :--------- | :------------------------------------------------------------------------------------------------- | :-------------------------------- | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
+|     1 | Wed May-20 | Course Overview. Big Data concepts. Cloud computing and evolution of cloud technologies            | Setting Up                        |                                                                                                  | Do the prework                                                           |
+|     2 | Wed May-27 | Scaling up on a single machine. Functional programming. Map and reduce functions. Parallelization. | Parallelization                   | MLD: Ch. 1, 2, 5<br/><br/>Dean, Ghemawat: MapReduce Simplified Data Processing on Large Clusters | Quiz 1<br/><br/>Project Proposal due 5/27<br/><br/>Assignment 1 due 5/29 |
+|     3 | Wed Jun-03 | MapReduce. Hadoop and Hadoop Streaming. Distributed filesystems.                                   | Running a Hadoop job              |                                                                                                  | Quiz 2<br/><br/>Assignment 2 due 6/5                                     |
+|     4 | Wed Jun-10 | Spark 1: Intro to Spark and PySpark. RDDs. Spark DataFrames. SparkSQL                              | Intro to Spark, working with RDDs |                                                                                                  | Quiz 3<br/><br/>Assignment 3 due 6/12                                    |
+|     5 | Wed Jun-17 | Spark 2: Marchine Learning with Spark                                                              | Machine Learning with Spark       |                                                                                                  | Quiz 4                                                                   |
+|     6 | Wed Jun-24 | Spark 3: Spark Streaming. Other big data tools. Course wrapup.                                     | Spark Streaming                   |                                                                                                  | Quiz 5<br/><br/>Final Project due 6/30                                   |
 
 ## Policies & Expectations
 
