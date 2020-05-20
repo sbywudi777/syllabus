@@ -1,4 +1,4 @@
-**This syllabus is effective as of Wednesday, May 20, 2020 at 12:07 PM**
+**This syllabus is effective as of Wednesday, May 20, 2020 at 12:13 PM**
 
 DNSC 6290 Working with Large Datasets the George Washington University
 Summer 2020
@@ -202,14 +202,14 @@ This calendar is subject to change. We will make make any changes known
 in
 advance.
 
-| Class | Date       | Topics                                                                                             | Lab                               | Readings                                                                                         | Notes                                                                    |
-| ----: | :--------- | :------------------------------------------------------------------------------------------------- | :-------------------------------- | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
-|     1 | Wed May-20 | Course Overview. Big Data concepts. Cloud computing and evolution of cloud technologies            | Setting Up                        |                                                                                                  | Do the prework                                                           |
-|     2 | Wed May-27 | Scaling up on a single machine. Functional programming. Map and reduce functions. Parallelization. | Parallelization                   | MLD: Ch. 1, 2, 5<br/><br/>Dean, Ghemawat: MapReduce Simplified Data Processing on Large Clusters | Quiz 1<br/><br/>Project Proposal due 5/27<br/><br/>Assignment 1 due 5/29 |
-|     3 | Wed Jun-03 | MapReduce. Hadoop and Hadoop Streaming. Distributed filesystems.                                   | Running a Hadoop job              |                                                                                                  | Quiz 2<br/><br/>Assignment 2 due 6/5                                     |
-|     4 | Wed Jun-10 | Spark 1: Intro to Spark and PySpark. RDDs. Spark DataFrames. SparkSQL                              | Intro to Spark, working with RDDs |                                                                                                  | Quiz 3<br/><br/>Assignment 3 due 6/12                                    |
-|     5 | Wed Jun-17 | Spark 2: Marchine Learning with Spark                                                              | Machine Learning with Spark       |                                                                                                  | Quiz 4                                                                   |
-|     6 | Wed Jun-24 | Spark 3: Spark Streaming. Other big data tools. Course wrapup.                                     | Spark Streaming                   |                                                                                                  | Quiz 5<br/><br/>Final Project due 6/30                                   |
+| Class | Date       | Topics                                                                                             | Lab                               | Readings                                                                                            | Notes                                                                    |
+| ----: | :--------- | :------------------------------------------------------------------------------------------------- | :-------------------------------- | :-------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
+|     1 | Wed May-20 | Course Overview. Big Data concepts. Cloud computing and evolution of cloud technologies            | Setting Up                        |                                                                                                     | Do the prework                                                           |
+|     2 | Wed May-27 | Scaling up on a single machine. Functional programming. Map and reduce functions. Parallelization. | Parallelization                   | MLD: Ch. 1, 2, 5, 7<br/><br/>Dean, Ghemawat: MapReduce Simplified Data Processing on Large Clusters | Quiz 1<br/><br/>Project Proposal due 5/27<br/><br/>Assignment 1 due 5/29 |
+|     3 | Wed Jun-03 | MapReduce. Hadoop and Hadoop Streaming. Distributed filesystems.                                   | Running a Hadoop job              |                                                                                                     | Quiz 2<br/><br/>Assignment 2 due 6/5                                     |
+|     4 | Wed Jun-10 | Spark 1: Intro to Spark and PySpark. RDDs. Spark DataFrames. SparkSQL                              | Intro to Spark, working with RDDs |                                                                                                     | Quiz 3<br/><br/>Assignment 3 due 6/12                                    |
+|     5 | Wed Jun-17 | Spark 2: Marchine Learning with Spark                                                              | Machine Learning with Spark       |                                                                                                     | Quiz 4                                                                   |
+|     6 | Wed Jun-24 | Spark 3: Spark Streaming. Other big data tools. Course wrapup.                                     | Spark Streaming                   |                                                                                                     | Quiz 5<br/><br/>Final Project due 6/30                                   |
 
 ## Policies & Expectations
 

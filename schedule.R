@@ -30,7 +30,7 @@ l01 <- tibble(
 l02 <- tibble(
   topics = "Scaling up on a single machine. Functional programming. Map and reduce functions. Parallelization.",
   lab = "Parallelization",
-  reading = "MLD: Ch. 1, 2, 5<br/><br/>Dean, Ghemawat: MapReduce Simplified Data Processing on Large Clusters",
+  reading = "MLD: Ch. 1, 2, 5, 7<br/><br/>Dean, Ghemawat: MapReduce Simplified Data Processing on Large Clusters",
   notes = "Quiz 1<br/><br/>Project Proposal due 5/27<br/><br/>Assignment 1 due 5/29"
 )
 
