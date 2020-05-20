@@ -1,4 +1,4 @@
-**This syllabus is effective as of Sunday, May 03, 2020 at 07:58 PM**
+**This syllabus is effective as of Sunday, May 19, 2020 at 09:50 PM**
 
 DNSC 6290 Working with Large Datasets the George Washington University
 Summer 2020
