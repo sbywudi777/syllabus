@@ -7,8 +7,8 @@ Summer 2020
 
   - **Instructors:** Marck Vaisman (marck at gwu.edu)
   - **Classroom:** Online
-  - **Time:** Wednesdays 6:10-8:40pm (actual time may be adjusted)
-  - **TA’s:**
+  - **Time:** Wednesdays 5:00-7:15pm Eastern Daylight Time
+  - **TA’s:** Hanqiu Yang (hanqiu_yang at email.gwu.edu)
   - **Course Description:** Learn to work with datasets that will not
     fit on a single machine because of storage, memory or processing
     constraints. This practical workshop-style course teaches students
