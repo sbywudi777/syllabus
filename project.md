@@ -127,3 +127,5 @@ For the purposes of grading, a **deficiency** can mean any of the following:
 - Code files referenced are not in repository
 - Missing model performance metrics
 - Doing an analysis and/or model just for the sake of doing it, without thinking through and providing analytical justification
+eeeeeeeeeeee
+![question_wordcloud](s3://my4dbucket/math/question.png
